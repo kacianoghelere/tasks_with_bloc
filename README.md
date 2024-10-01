@@ -2,15 +2,4 @@
 
 Gerenciador de tarefas com com Bloc no gerenciamento de estados
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screen_recording_20241001_153424.webm](https://github.com/user-attachments/assets/5e429610-1294-4fc3-9ac0-b54f351e2299)
